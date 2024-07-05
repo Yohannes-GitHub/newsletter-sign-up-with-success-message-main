@@ -33,7 +33,7 @@ Users should be able to:
 
 - Desktop Solution SignUp form -
 
-![](./assets/images/Screenshot%20of%20Frontend%20Mentor%20Newsletter%20sign-up%20form.png)
+![](./assets/images/Screenshot%20of%20Frontend%20Mentor%20Newsletter%20sign-up%20form%20-%20Desktop%20version.png)
 
 - Desktop Solution SignUp form empty input error state -
 
@@ -49,8 +49,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Yohannes-GitHub/notifications-page-main)
-- Live Site URL: [Add live site URL here](https://notification-page-challenge-by-jon.netlify.app/)
+- Solution URL: [Add solution URL here](https://github.com/Yohannes-GitHub/newsletter-sign-up-with-success-message-main)
+- Live Site URL: [Add live site URL here](https://newsletter-sign-up-by-jon-sintayehu.netlify.app/)
 
 ## My process
 
